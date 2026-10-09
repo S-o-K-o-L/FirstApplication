@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">FirstApplication</string>
+    <string name="hint_input">Введите текст или номер телефона</string>
+    <string name="btn_open_second">Открыть вторую Activity</string>
+    <string name="btn_call">Позвонить другу</string>
+    <string name="btn_share">Поделиться текстом</string>
+    <string name="share_title">Поделиться через…</string>
+    <string name="no_data">Данные не переданы</string>
+    <string name="error_empty">Поле не должно быть пустым</string>
+    <string name="error_invalid_phone">Некорректный номер телефона</string>
+    <string name="error_no_dialer">Не найдено приложение для звонков</string>
 </resources>
